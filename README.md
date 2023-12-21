@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nebo333
 - 👀 I’m interested in natural language processing mostly.
-- 🌱 I’m currently learning the huggingface ecosystem and how to leverage transformer models.
+- 🌱 I’m currently learning about fine tuning and Retrieval Augmented Generation (RAG).
 - 💞️ I’m not looking to collaborate on anything right now but happy to chat on NLP and more.
 - 📫 How to reach me https://twitter.com/nebo333 or tomebenham@gmail.com
 
